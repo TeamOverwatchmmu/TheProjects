@@ -1,6 +1,6 @@
-#Thales HUMS (Health Usage and Monitoring Service)
+# Thales HUMS (Health Usage and Monitoring Service)
 
-##using Elasic Search tool kibana for user display.
+## using Elasic Search tool kibana for user display.
 
 ## Contents
 
