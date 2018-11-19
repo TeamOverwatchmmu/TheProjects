@@ -1,6 +1,6 @@
 # Thales HUMS (Health Usage and Monitoring Service)
 
-## Using Elasic Search tool kibana for user display.
+## Using [Elasic Search](https://www.elastic.co/products/elasticsearch) tool kibana for user display.
 
 ## Contents
 
