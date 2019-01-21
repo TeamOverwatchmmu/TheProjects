@@ -18,7 +18,11 @@ Holds documentation for the project. See folder for details
 
 #### [code](./code/readme.md)
 
-Optionally, the source code for the project goes here. If the project has many deployable components (servers / apps), each one has it's own [subproject](https://github.com/CMDT/LiveProjectsSubProject).
+
+
+#### [Configs]
+
+These are the config files. These are aranged with the same directory stucture as the programs within there respective folders 
 
 #### [investigations](./investigations/readme.md)
 
