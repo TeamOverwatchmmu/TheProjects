@@ -30,7 +30,8 @@ Example code, and helpful snippets
 
 ### Sub Projects
 
-Link to your sub-projects here. Clone the [sub-project repo](https://github.com/CMDT/LiveProjectsSubProject) for each one.
+Link to the sub-projects here. 
+*[Jetty Test Server](https://github.com/TeamOverwatchmmu/JettyTestProject) for each one.
 
 ### Trello
 
