@@ -10,8 +10,6 @@
 
 Holds live wireframes for the project. 
 
-(Can also be used to hold the published code, if deploying a single project to GitHub Pages).
-
 #### [documentation](./documentation/readme.md)
 
 Holds documentation for the project. See folder for details
