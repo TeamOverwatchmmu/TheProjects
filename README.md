@@ -31,7 +31,7 @@ Example code, and helpful snippets
 ### Sub Projects
 
 Link to the sub-projects here. 
-*[Jetty Test Server](https://github.com/TeamOverwatchmmu/JettyTestProject) for each one.
+* [Jetty Test Server](https://github.com/TeamOverwatchmmu/JettyTestProject) for each one.
 
 ### Trello
 
