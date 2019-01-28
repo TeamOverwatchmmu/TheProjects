@@ -18,7 +18,7 @@ Holds documentation for the project. See folder for details
 
 
 
-#### [Configs](./configs/readme.md)
+#### [configs](./configs/readme.md)
 
 These are the config files. These are aranged with the same directory stucture as the programs within there respective folders 
 
