@@ -5,7 +5,7 @@ command:
 ```
 systemctl start httpd.service
 ```
-AUR Wiki Links
+## AUR Wiki Links
 
 systemd:
 https://wiki.archlinux.org/index.php/Systemd
