@@ -1,6 +1,6 @@
 # running pipeline
 
-```
+```config
 /logstash -f <log/file/path>--config.reload.automatic
 ```
 This runs logstash and auto reloads the config file at the giver path.
