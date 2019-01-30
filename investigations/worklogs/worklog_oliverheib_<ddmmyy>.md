@@ -1,7 +1,8 @@
-#running pipeline
+# running pipeline
 
-
+'''
 /logstash -f <log/file/path>--config.reload.automatic
+'''
 This runs logstash and auto reloads the config file at the giver path.
 
 ./filebeat -e -c filebeat.yml -d "publish"
