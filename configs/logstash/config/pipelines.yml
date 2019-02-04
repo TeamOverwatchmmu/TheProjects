@@ -10,9 +10,9 @@
 #   pipeline.workers: 1
 #   pipeline.batch.size: 1
 #   config.string: "input { generator {} } filter { sleep { time => 1 } } output { stdout { codec => dots } }"
-# - pipeline.id: another_test
-#   queue.type: persisted
-#   path.config: "/tmp/logstash/*.config"
+ - pipeline.id: another_test
+   queue.type: persisted
+   path.config: "~/Elk Stack/logstash-6.5.4/config/apache-pipeline.conf"
 #
 # Available options:
 #
