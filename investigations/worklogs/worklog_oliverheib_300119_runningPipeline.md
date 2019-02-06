@@ -3,7 +3,7 @@
 ```
 /logstash -f <log/file/path>--config.reload.automatic
 ```
-This runs logstash and auto reloads the config file at the giver path.
+This runs logstash and auto reloads the config file at the giver path. Running this without the -f agument will run logstash with the congigurations set in pipelines.yml where you can set multiple pipeline configs to run at once.
 
 ```
 ./filebeat -e -c filebeat.yml -d "publish"
