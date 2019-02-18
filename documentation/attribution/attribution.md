@@ -12,7 +12,7 @@ It is the work of Team Overwatch
 <img align="middle" src="logo_mmu.png" />
  </p>
  
- This project uses open scorce tools from Elastic NV:
+ This project uses open scorce tools from Elastic NV (Original author: Shay Banon):
  * [Elasticsearch](https://www.elastic.co/products/elasticsearch)
  * [Kibana](https://www.elastic.co/products/kibana/)
  * [logstash](https://www.elastic.co/products/logstash/)
