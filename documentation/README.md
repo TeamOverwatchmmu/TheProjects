@@ -11,7 +11,7 @@ Not to be confused with /docs - this contains the exported output from ./wirefra
 
 ### [attribution](./attribution/attribution.md)
 
-Your product should link here for attributions - a list of contributing people (incuding those writing the libraries you include!) 
+Link to the attributions - a list of contributing people (incuding those writing the libraries included) 
 
 ### [budget](./budget/readme.md)
 
