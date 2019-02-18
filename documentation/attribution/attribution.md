@@ -13,7 +13,7 @@ It is the work of Team Overwatch
  </p>
  
  This project uses open scorce tools from Elastic NV:
- *[Elasticsearch](https://www.elastic.co/products/elasticsearch)
- *[Kibana](https://www.elastic.co/products/kibana/)
- *[logstash](https://www.elastic.co/products/logstash/)
- *[filebeat](https://www.elastic.co/products/beats/filebeat/)
+ * [Elasticsearch](https://www.elastic.co/products/elasticsearch)
+ * [Kibana](https://www.elastic.co/products/kibana/)
+ * [logstash](https://www.elastic.co/products/logstash/)
+ * [filebeat](https://www.elastic.co/products/beats/filebeat/)
