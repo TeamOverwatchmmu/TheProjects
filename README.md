@@ -6,7 +6,7 @@
 
 ###  Folders
 
-#### [docs](https://cmdt.github.io/LiveProjectsTemplate/docs/)
+#### [docs](https://cmdt.github.io/LiveProjectsTemplate/TheProjects/docs/)
 
 Holds live wireframes for the project. 
 
