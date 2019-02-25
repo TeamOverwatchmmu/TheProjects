@@ -27,3 +27,6 @@ A release note for each version of the project which is deployed. Link to the re
 
 All wireframe source for your project goes here. 
 
+### [installation](./installation.md)
+
+Instuctions on how to install the Elk stack and install the config files. 
