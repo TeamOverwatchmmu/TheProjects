@@ -10,19 +10,19 @@ files to install
 
 ### Filebeat Apache access configs
 files in [/configs/filebeat/apache/access](https://github.com/TeamOverwatchmmu/TheProjects/tree/master/configs/filebeat/apache/access)
-'''filebeat/
+``filebeat/
 ├── filebeat.yml
-└── fields.yml'''
+└── fields.yml``
 
 ## Filebeat Apache error configs
 files in [/configs/filebeat/apache/error](https://github.com/TeamOverwatchmmu/TheProjects/tree/master/configs/filebeat/apache/error)
-filebeat/
+``filebeat/
 ├── filebeat.yml
-└── fields.yml
+└── fields.yml``
 
 ## Logstash
-filebeat/
+``filebeat/
 └── configs/
     ├── apache-error-pipeline.conf
     ├── apache-pipeline.conf
-    └── pipelines.yml
+    └── pipelines.yml``
